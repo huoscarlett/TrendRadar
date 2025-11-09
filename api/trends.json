@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T03:26:57.119431+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2025-11-10T04:35:22.095296+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时35分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -27,11 +27,12 @@
             24,
             10,
             20,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时35分]"
         }
       ]
     }
