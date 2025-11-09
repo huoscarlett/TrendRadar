@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-09T18:27:41.456086+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2025-11-09T18:44:01.986174+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
-  "trends": [],
-  "report_image_url": "https://huoscarlettt.github.io/TrendRadar/img/news.jpg"
+  "trends": [
+    {
+      "keyword_group": "机器人 具身智能 灵巧手 Robotics Humanoid Optimus Skild AI Figure AI Boston Dynamics Robots",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "从展厅到工厂，人形机器人如何跨越规模交付瓶颈？明年是关键期｜进博会观察",
+          "url": "https://www.cls.cn/detail/2194894",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        }
+      ]
+    }
+  ],
+  "report_image_url": "https://huoscarlett.github.io/TrendRadar/img/news.jpg"
 }
