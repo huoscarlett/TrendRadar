@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T15:36:49.815748+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2025-11-10T16:55:14.441365+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能 灵巧手 Robotics Humanoid Optimus Skild AI Figure AI Boston Dynamics Robots",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 15时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 16时55分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -44,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 16时55分]"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.1%，深成指跌0.64%，算力硬件、机器人、量子科技、消费电子等方向跌幅居前，沪深京三市下跌个股近2300只。",
@@ -73,6 +74,17 @@
           "time_info": "[11时12分 ~ 11时46分]"
         },
         {
+          "title": "智元机器人完成股改，即将开启上市之路？",
+          "url": "https://www.cls.cn/detail/2195804",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "起猛了人形机器人敲上青铜器了",
           "url": "https://www.toutiao.com/trending/7570700195769417782/",
           "source": "今日头条",
@@ -82,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "工业和信息化部规划司司长姚珺表示，将加速推动5G+、人工智能+、机器人+、工业互联网+、北斗+等重点领域应用场景的培育。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/3002023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     }
