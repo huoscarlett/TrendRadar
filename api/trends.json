@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T11:46:30.600364+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2025-11-10T12:51:24.454474+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 11时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 12时51分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -42,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[11时12分 ~ 12时51分]"
         },
         {
           "title": "A股人形机器人概念震荡走弱，浙江荣泰逼近跌停，拓普集团、汉宇集团、力星股份、三花智控、豪恩汽电、大洋电机、伟创电气跟跌。",
