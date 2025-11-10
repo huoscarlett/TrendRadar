@@ -1,116 +1,33 @@
 {
-  "generated_at": "2025-11-10T23:42:38.313613+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2025-11-11T00:54:44.377648+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能 灵巧手 Robotics Humanoid Optimus Skild AI Figure AI Boston Dynamics Robots",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
           "source": "贴吧",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时59分 ~ 23时42分]"
-        },
-        {
-          "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
-          "url": "https://wallstreetcn.com/articles/3758990",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 17时46分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
           "url": "https://www.cls.cn/detail/2195804",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6,
-            5,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 23时42分]"
-        },
-        {
-          "title": "起猛了机器人敲上青铜器了",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B2%E4%B8%8A%E9%9D%92%E9%93%9C%E5%99%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            10,
-            20,
-            18,
-            22,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时31分]"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.1%，深成指跌0.64%，算力硬件、机器人、量子科技、消费电子等方向跌幅居前，沪深京三市下跌个股近2300只。",
-          "url": "https://wallstreetcn.com/livenews/3001885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 12时51分]"
-        },
-        {
-          "title": "A股人形机器人概念震荡走弱，浙江荣泰逼近跌停，拓普集团、汉宇集团、力星股份、三花智控、豪恩汽电、大洋电机、伟创电气跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3001875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时46分]"
-        },
-        {
-          "title": "起猛了人形机器人敲上青铜器了",
-          "url": "https://www.toutiao.com/trending/7570700195769417782/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "工业和信息化部规划司司长姚珺表示，将加速推动5G+、人工智能+、机器人+、工业互联网+、北斗+等重点领域应用场景的培育。（新华财经）",
-          "url": "https://wallstreetcn.com/livenews/3002023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
+          "time_info": "00时54分"
         }
       ]
     }
