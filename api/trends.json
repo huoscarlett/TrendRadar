@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T00:54:44.377648+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-11T01:36:07.095099+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时36分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时36分]"
         }
       ]
     }
