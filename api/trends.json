@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T14:59:01.824206+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2025-11-10T15:36:49.815748+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 14时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 15时36分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -43,9 +43,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时36分]"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.1%，深成指跌0.64%，算力硬件、机器人、量子科技、消费电子等方向跌幅居前，沪深京三市下跌个股近2300只。",
