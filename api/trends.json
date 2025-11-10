@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T06:43:13.113666+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2025-11-11T07:34:04.752001+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
           "title": "深圳人形机器人卖爆",
@@ -25,11 +25,12 @@
           "ranks": [
             23,
             18,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时29分 ~ 06时43分]"
+          "appearance_count": 5,
+          "time_info": "[03时29分 ~ 07时34分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
