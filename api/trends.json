@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T00:53:54.404760+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-12T01:40:41.677931+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时40分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时40分]"
         },
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
@@ -37,8 +37,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时40分]"
         }
       ]
     }
