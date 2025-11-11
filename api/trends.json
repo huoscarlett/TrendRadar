@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T22:45:16.207855+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-11-11T23:43:17.071506+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             16,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 22时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 23时43分]"
         },
         {
           "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
@@ -34,8 +35,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时45分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时43分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 22时45分]"
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 23时43分]"
         },
         {
           "title": "深圳人形机器人卖爆",
