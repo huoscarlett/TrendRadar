@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T18:48:42.377106+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-11-11T19:32:47.912115+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 18时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 19时32分]"
         },
         {
           "title": "深圳人形机器人卖爆",
@@ -39,24 +39,25 @@
           "time_info": "[03时29分 ~ 07时34分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
+          "url": "https://www.cls.cn/detail/2197306",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时32分]"
+        },
+        {
           "title": "高盛调研发现A股机器人“订单荒”？产业链上市公司：静待订单落地",
           "url": "https://wallstreetcn.com/livenews/3002660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时41分]"
-        },
-        {
-          "title": "全国首家人形机器人7S店在武汉开业",
-          "url": "https://wallstreetcn.com/livenews/3002659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -72,8 +73,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时32分]"
+        },
+        {
+          "title": "全国首家人形机器人7S店在武汉开业",
+          "url": "https://wallstreetcn.com/livenews/3002659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时41分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
@@ -85,18 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时36分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
-          "url": "https://www.cls.cn/detail/2197306",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时48分]"
         },
         {
           "title": "上纬新材发布机器人预告，智元回应",
