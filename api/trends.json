@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T13:42:20.243212+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-12T14:59:16.141483+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "ranks": [
             22,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 14时59分]"
         },
         {
           "title": "全球首批人形机器人店员深圳上岗",
@@ -64,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时59分]"
         },
         {
           "title": "俄人形机器人摔倒 零部件散落在地",
@@ -74,11 +75,24 @@
           "ranks": [
             24,
             18,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时59分]"
+        },
+        {
+          "title": "俄罗斯人形机器人首秀时摔倒",
+          "url": "https://www.douyin.com/hot/2303223",
+          "source": "抖音",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时59分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人",
@@ -91,17 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时29分]"
-        },
-        {
-          "title": "俄罗斯人形机器人首秀时摔倒",
-          "url": "https://www.douyin.com/hot/2303223",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
         },
         {
           "title": "中海达：已获得小鹏具身机器人的IMU姿态传感器定点 小规模样品交付中",
@@ -132,7 +135,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
