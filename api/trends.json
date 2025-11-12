@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T02:51:59.300439+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2025-11-13T03:30:36.263676+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时30分]"
         },
         {
           "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时30分]"
         },
         {
           "title": "安卓创始人安迪·鲁宾在东京创办机器人初创公司。",
@@ -38,7 +38,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         }
