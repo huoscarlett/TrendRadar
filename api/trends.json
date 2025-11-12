@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T19:37:31.187975+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2025-11-12T21:52:54.538332+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能 灵巧手 Robotics Humanoid Optimus Skild AI Figure AI Boston Dynamics Robots",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
@@ -131,6 +131,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
+          "url": "https://www.cls.cn/detail/2198568",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "机器人企业骗局曝光：路演厅里上演“提线木偶”，聪明投资人也栽跟头",
           "url": "https://www.cls.cn/detail/2198171",
           "source": "财联社热门",
@@ -140,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
+          "url": "https://www.cls.cn/detail/2198609",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "中海达：已获得小鹏具身机器人的IMU姿态传感器定点 小规模样品交付中",
@@ -159,7 +181,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -206,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "人形机器人让小鹏走上了神坛",
+          "url": "https://www.toutiao.com/trending/7571798294121156102/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     }
