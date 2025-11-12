@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T22:52:00.968105+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2025-11-12T23:50:24.165177+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
@@ -113,11 +113,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时52分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时50分]"
         },
         {
           "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
@@ -125,11 +126,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时52分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时50分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人",
