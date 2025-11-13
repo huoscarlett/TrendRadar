@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T17:42:57.561785+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-11-13T18:50:08.448579+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能 灵巧手 Robotics Humanoid Optimus Skild AI Figure AI Boston Dynamics Robots",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一汽、江淮密集招标 人形机器人加速“上岗”主机厂、产业链公司将受益",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 18时50分]"
         },
         {
           "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
@@ -46,6 +46,19 @@
           "time_info": "[01时01分 ~ 07时34分]"
         },
         {
+          "title": "宇树推出首款轮式人形机器人",
+          "url": "https://www.cls.cn/detail/2199402",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时50分]"
+        },
+        {
           "title": "宇树科技发布人形机器人数采训练全栈解决方案",
           "url": "https://wallstreetcn.com/livenews/3003876",
           "source": "华尔街见闻-快讯",
@@ -58,18 +71,6 @@
           "time_info": "[13时42分 ~ 14时57分]"
         },
         {
-          "title": "宇树推出首款轮式人形机器人",
-          "url": "https://www.cls.cn/detail/2199402",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时42分]"
-        },
-        {
           "title": "券商晨会精华：有色牛市再进阶，AI和机器人新材料乘风而起",
           "url": "https://www.cls.cn/detail/2199040",
           "source": "财联社热门",
@@ -80,6 +81,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时48分 ~ 17时42分]"
+        },
+        {
+          "title": "第一批会穿糖葫芦的机器人现身北京",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BC%9A%E7%A9%BF%E7%B3%96%E8%91%AB%E8%8A%A6%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E8%BA%AB%E5%8C%97%E4%BA%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D27%26lcate%3D5001%26pos%3D27%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E4%25BC%259A%25E7%25A9%25BF%25E7%25B3%2596%25E8%2591%25AB%25E8%258A%25A6%25E7%259A%2584%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E7%258E%25B0%25E8%25BA%25AB%25E5%258C%2597%25E4%25BA%25AC%2523%26dgr%3D0%26band_rank%3D27%26c_type%3D31%26display_time%3D1763029265%26pre_seqid%3D17630292655280113807931&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "安卓创始人安迪·鲁宾在东京创办机器人初创公司。",
