@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T15:35:55.160702+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2025-11-13T16:54:26.148448+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能 灵巧手 Robotics Humanoid Optimus Skild AI Figure AI Boston Dynamics Robots",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 16时54分]"
         },
         {
           "title": "宇树科技发布人形机器人数采训练全栈解决方案",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 14时57分]"
+        },
+        {
+          "title": "宇树推出首款轮式人形机器人",
+          "url": "https://www.cls.cn/detail/2199402",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "券商晨会精华：有色牛市再进阶，AI和机器人新材料乘风而起",
