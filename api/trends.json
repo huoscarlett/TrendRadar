@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T18:39:40.348346+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-11-15T19:26:59.958068+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             9,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 19时26分]"
         },
         {
           "title": "Tether洽谈在Neura Robotics GmbH的10亿欧元融资中发挥领投作用。 Neura料将在本轮融资获得80亿-100亿欧元估值。（英国金融时报）",
